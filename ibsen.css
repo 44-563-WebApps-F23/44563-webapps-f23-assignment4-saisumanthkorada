@@ -1,0 +1,33 @@
+.speech
+{
+    color: black;
+    font-size: large;
+    font-family:sans-serif;
+}
+.direction
+{
+    color:black;
+    font-size: large;
+    font-family: sans-serif;
+    font-style: italic;
+    background-color :bisque;
+}
+.direction:hover
+{
+    background-color: brown;
+    color:aquamarine;
+}
+.tesman
+{
+    color: red;
+    font-family: 'Times New Roman';
+    font-style: bold;
+    font-size: large;
+}
+.hedda
+{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
